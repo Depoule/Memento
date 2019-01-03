@@ -1,0 +1,42 @@
+p, ul
+{
+    color: white;
+}
+
+h1, h2
+{
+  color: red;
+}
+
+h1
+{
+    font-size: 40px;
+}
+
+strong
+{
+    font-style: italic;
+}
+
+p, h2
+{
+    text-align: justify;
+}
+
+h1
+{
+  text-align: center;
+}
+
+body
+{
+    background-image: url("matrix.jpg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+h1
+{
+    border: 8px red outset;
+}
